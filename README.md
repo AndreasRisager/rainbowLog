@@ -7,5 +7,5 @@ Install with `npm i @andreasrisager/rainbowlog`
 ```javascript
 var rainbowLog = require("@andreasrisager/rainbowlog");
 
-rainbowLog("I'm a RAINBOW! :F");
+rainbowLog("I'm a RAINBOW! :p");
 ```

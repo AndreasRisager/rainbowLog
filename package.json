@@ -15,7 +15,8 @@
     "rainbow",
     "colors",
     "rainbowlog",
-    "consolelog"
+    "consolelog",
+    "color"
   ],
   "author": "AndreasRisager",
   "license": "MIT",

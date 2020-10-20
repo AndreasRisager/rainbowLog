@@ -17,5 +17,4 @@ function rainbowLog(string){
     console.log(output);
 }
 
-
 module.exports = rainbowLog;
