@@ -1,6 +1,6 @@
 {
   "name": "@andreasrisager/rainbowlog",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "creates a rainbow colored console.log",
   "main": "index.js",
   "scripts": {
