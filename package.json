@@ -1,0 +1,32 @@
+{
+  "name": "rainbowlog",
+  "version": "1.0.0",
+  "description": "creates a rainbow colored console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasRisager/rainbowLog.git"
+  },
+  "keywords": [
+    "console",
+    "rainbow",
+    "colors",
+    "rainbowlog",
+    "consolelog",
+    "blue",
+    "red",
+    "white",
+    "black",
+    "free",
+    "free candy"
+  ],
+  "author": "AndreasRisager",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreasRisager/rainbowLog/issues"
+  },
+  "homepage": "https://github.com/AndreasRisager/rainbowLog#readme"
+}
